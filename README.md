@@ -27,5 +27,5 @@ The code performs a random `hp-refinement` scheme, meaning that each element ada
 
 ## Performance
  Here is the performance of the program:
- 
+ ![Image of load-balancing](https://github.com/ShiqiHe000/random_load_balancing/blob/master/pics/visit0000.png)
 
